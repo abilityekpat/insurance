@@ -238,6 +238,7 @@
     background-color: white;
     display: flex;
     align-items: center;
+    cursor: pointer;
    
     
 }
@@ -296,6 +297,7 @@
     border-radius: 3px;
     padding-top: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid blue;
   
 }
 
@@ -442,6 +444,7 @@
     padding-bottom: 20px;
     font-family:sans-serif;
     color: grey;
+    font-weight: 200;
 }
 
 .custom-line{
